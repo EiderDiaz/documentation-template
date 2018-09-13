@@ -102,11 +102,11 @@ Noménclaturas, versiones del proyecto...
 
 | Documento | Ubicación |
 | ------ | ------ |
-| Funcional | M:\Frontend platform\Logismarket |
-| Maquetas | M:\Frontend platform\Logismarket |
-| SEO | M:\Frontend platform\Logismarket |
-| Timmings | M:\Frontend platform\Logismarket |
-| Google Analytics | M:\Frontend platform\Logismarket |
+| Funcional | M:\Frontend platform\ |
+| Maquetas | M:\Frontend platform\ |
+| SEO | M:\Frontend platform\ |
+| Timmings | M:\Frontend platform\ |
+| Google Analytics | M:\Frontend platform\ |
 
 ## Contactos
 
