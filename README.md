@@ -8,9 +8,8 @@ Texto explicativo sobre el proyecto
 
 ## Objetivos
 
-> Reforzar la imagen de la marca
-> Aumentar número de leads
-> Mejorar el performance
+> Crear una aplicación vel ipsum euismod magna tristique interdum ac vitae nisi. In placerat elit non mauris tristique, a sagittis ex pulvinar. Ut scelerisque dui non eleifend consectetur. Suspendisse vitae ex ac risus euismod rhoncus nec vel felis. In eu libero a lorem ultrices bibendum ut elementum quam. Suspendisse blandit metus ut ex feugiat, at bibendum neque varius. Nulla scelerisque commodo lectus, at suscipit mi auctor nec.
+
 
 ## Requisitos
 
@@ -38,22 +37,22 @@ Instrucciones para clonar el proyecto y obtener una copia local funcional.
 
 Clonar e instalar las dependencias necesarias para levantar el proyecto
 
-Paso 1: Levantar el entorno
+Paso 1: Clonar e instalar dependencias
 
-```
+```sh
 git clone  ..
 cd ..
 npm install -d
 npm start
 ```
 
-Pas 2: Lorem ipsum
+Pas 2: Levantar el entorno local
 
-```
+```sh
 gulp serve
 ```
 
-![alt text][https://dynamicimageses-v2b.netdna-ssl.com/product/es_1707_hd.jpg]
+[![N|Solid](https://dynamicimageses-v2b.netdna-ssl.com/product/es_1707_hd.jpg)](https://nodesource.com/products/nsolid)
 
 ## Desarrollo
 
@@ -62,6 +61,7 @@ Explicación genérica de pasos previos al desarrollo de nuevas funcionalidades,
 ```
 enlaces a wiki
 ```
+
 ### Actualización del entorno
 
 Como mantener el entorno actualizado
@@ -94,14 +94,19 @@ PRE -
 PRO -
 ```
 
-## Contribuciones
-
-Proceso de cómo aportar los nuevos desarrollos (pasos, requisitos...)
-
 ## Versionado  
 
 Noménclaturas, versiones del proyecto...
 
+## Recursos
+
+|  | Ubicación |
+| ------ | ------ |
+| Funcional | [M:\Frontend platform\Logismarket][DOCX] |
+| Maquetas | [M:\Frontend platform\Logismarket][M:\Frontend platform\Logismarket] |
+| SEO | [M:\Frontend platform\Logismarket][Excel] |
+| Timmings | [M:\Frontend platform\Logismarket][Excel] |
+| Google Analytics | [M:\Frontend platform\Logismarket][DOCX] |
 
 ## Contactos
 
