@@ -1,87 +1,87 @@
-# Project Title
+# Título del proyecto
 
-One Paragraph of project description goes here
+Texto explicativo sobre el proyecto
 
-## Getting Started
+## Objetivo del proyecto
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* Reforzar la imagen de la marca
+* Aumentar número de leads
+* Mejorar el performance
 
-### Prerequisites
+## ¿Cómo empezar?
 
-What things you need to install the software and how to install them
+Instrucciones para clonar el proyecto y obtener una copia local funcional.
 
-```
-Give examples
-```
+### Requisitos previos
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
+Qué software (hardware) es necesario para poder tener funcionando el proyecto
 
 ```
-Give the example
+Ejemplos...
 ```
 
-And repeat
+### Instalación
+
+Paso a paso (con ejemplos), de cómo tener un entorno de desarrollo funcionando.
+
+Paso 1: Levantar el entorno
 
 ```
-until finished
+ejecutar la instrucción gulp en la carpeta del proyecto..
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
+Pas 2: Lorem ipsum
 
 ```
-Give an example
+Suspendisse non turpis elit.
 ```
 
-### And coding style tests
+Acabar la explicación con un ejemplo de cómo quedaría el entorno funcionado...
 
-Explain what these tests test and why
+## Desarrollo
+
+Explicación genérica de pasos previos al desarrollo de nuevas funcionalidades, o modificaciones del proyecto.
 
 ```
-Give an example
+enlaces a wiki
 ```
 
-## Deployment
+### Listado de requisitos del nuevo desarrollo 
 
-Add additional notes about how to deploy this on a live system
+Normas que debe cumplir los nuevos desarrollos, agrupados por técnología y sus validadores.
 
-## Built With
+```
+HTML - w3c
+JAVASCRIPT: ECMAScript (ES6)
+CSS: CSS3 https://validator.w3.org/unicorn/?ucn_task=full-css&ucn_lang=es
+```
+
+## Testeo
+
+Explicación de método de test de los desarrollos (procesos de gulp, frameworks...etc...)
+
+
+## Despliegue
+
+Notas sobre cómo desplegar el desarrollo en el entorno correspondiente ("pre", "pro"...)
+
+## Software
 
 * [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
 * [Maven](https://maven.apache.org/) - Dependency Management
 * [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
 
-## Contributing
+## Contribuciones de desarrollo
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+Enlace a wiki donde detallar el proceso de crear aportaciones al proyecto (merge request, documentación de desarrollos, tareas de redmine...)
 
-## Versioning
+## Versionado  
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+Explicación del método o nomenclatura utilizado para versiones del proyecto.
 
-## Authors
+## Autores
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Billie Thompson** - *Initial work* - [Email](nombre.apellidos@mecalux.com)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+Participantes en el proyecto: [contributors](https://github.com/your/project/contributors) 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
