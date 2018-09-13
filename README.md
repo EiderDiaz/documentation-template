@@ -1,4 +1,4 @@
-# Título del proyecto
+# Nombre del proyecto
 
 Texto explicativo sobre el proyecto
 
@@ -78,7 +78,7 @@ CSS: CSS3 https://validator.w3.org/unicorn/?ucn_task=full-css&ucn_lang=es
 Explicación de método de test de los desarrollos (procesos de gulp, frameworks...etc...)
 
 
-## Despliegue o pase a otro entorno.
+## Despliegue (o pase a otro entorno)
 
 Notas sobre cómo desplegar el desarrollo en los entornos correspondientes
 
@@ -91,13 +91,13 @@ PRO -
 
 Noménclaturas, versiones del proyecto...
 
-## Enlaces y recursos de interés
+## Enlaces, recursos de interés
 
   - [WIKI](https://github.com/xanisu/documentation-template/wiki)
   - [TRELLO](https://github.com/xanisu/documentation-template/wiki)
   - [DOCUMENTACIÓN TÉCNICA](file://M://Frontend\)
 
-## Contactos
+## Team
 
 * **Nombre Apellidos** - *Project manager* - Marketing [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
 * **Nombre Apellidos** - *Trabajo inicial* - IT [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
