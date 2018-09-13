@@ -77,6 +77,10 @@ CSS: CSS3 https://validator.w3.org/unicorn/?ucn_task=full-css&ucn_lang=es
 
 Explicación de método de test de los desarrollos (procesos de gulp, frameworks...etc...)
 
+### Validación
+
+Método de validación de los nuevos desarrollos.
+
 
 ## Despliegue (o pase a otro entorno)
 
