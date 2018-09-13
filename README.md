@@ -53,8 +53,7 @@ Pas 2: Lorem ipsum
 gulp serve
 ```
 
-[(https://dynamicimageses-v2b.netdna-ssl.com/product/es_1707_hd.jpg)]
-
+![alt text][https://dynamicimageses-v2b.netdna-ssl.com/product/es_1707_hd.jpg]
 
 ## Desarrollo
 
