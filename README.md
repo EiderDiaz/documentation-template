@@ -100,13 +100,13 @@ Noménclaturas, versiones del proyecto...
 
 ## Recursos
 
-|  | Ubicación |
+| Documento | Ubicación |
 | ------ | ------ |
-| Funcional | [M:\Frontend platform\Logismarket][DOCX] |
-| Maquetas | [M:\Frontend platform\Logismarket][M:\Frontend platform\Logismarket] |
-| SEO | [M:\Frontend platform\Logismarket][Excel] |
-| Timmings | [M:\Frontend platform\Logismarket][Excel] |
-| Google Analytics | [M:\Frontend platform\Logismarket][DOCX] |
+| Funcional | M:\Frontend platform\Logismarket |
+| Maquetas | M:\Frontend platform\Logismarket |
+| SEO | M:\Frontend platform\Logismarket |
+| Timmings | M:\Frontend platform\Logismarket |
+| Google Analytics | M:\Frontend platform\Logismarket |
 
 ## Contactos
 
