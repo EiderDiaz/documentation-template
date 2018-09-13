@@ -2,11 +2,11 @@
 
 Texto explicativo sobre el proyecto
 
-### Objetivo
+#### Objetivo
 
 > Crear una aplicación vel ipsum euismod magna tristique interdum ac vitae nisi. 
 
-### Requisitos
+#### Requisitos
 
 Técnologías necesarias para poder tener funcionando el proyecto
 
@@ -14,7 +14,7 @@ Técnologías necesarias para poder tener funcionando el proyecto
 * [Freemarker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
 * [Docker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
 
-### Technologías
+#### Technologías
 
 * [AngularJS] - HTML enhanced for web apps!
 * [markdown] - Markdown parser done right. Fast and easy to extend.
@@ -48,6 +48,7 @@ gulp serve
 Explicación o pasos previos a cualquier desarrollo. 
 
 | PASO | DESC |
+| ---- | ---- |
 | 1.- | Actualizar tarea en redmine |
 | 2.- | Actualizar tarjeta TRELLO |
 | 3.- | Actualizar entorno de desarrollo |
