@@ -8,13 +8,13 @@ Texto explicativo sobre el proyecto
 
 #### Requisitos
 
-Técnologías necesarias para poder tener funcionando el proyecto
+Técnologías en las que se basa el proyecto.
 
 * [Liferay](http://www.mecalux.es) - Suspendisse ut mass
 * [Freemarker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
 * [Docker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
 
-#### Technologías
+#### Software
 
 * [AngularJS] - HTML enhanced for web apps!
 * [markdown] - Markdown parser done right. Fast and easy to extend.
