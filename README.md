@@ -13,21 +13,17 @@ Texto explicativo sobre el proyecto
 
 ## Requisitos
 
-Qué técnologías son necesarias para poder tener funcionando el proyecto
+Técnologías necesarias para poder tener funcionando el proyecto
 
 * [Liferay](http://www.mecalux.es) - Suspendisse ut mass
 * [Freemarker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
 * [Docker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
 
-## ¿Cómo empezar?
-
-Instrucciones para clonar el proyecto y obtener una copia local funcional.
-
 ### Tech
 
 * [AngularJS] - HTML enhanced for web apps!
-* [markdown-it] - Markdown parser done right. Fast and easy to extend.
-* [Twitter Bootstrap] - great UI boilerplate for modern web apps
+* [markdown] - Markdown parser done right. Fast and easy to extend.
+* [Bootstrap] - great UI boilerplate for modern web apps
 * [node.js] - evented I/O for the backend
 * [Express] - fast node.js network app framework [@tjholowaychuk]
 * [Gulp] - the streaming build system
@@ -37,8 +33,6 @@ Instrucciones para clonar el proyecto y obtener una copia local funcional.
 
 Clonar e instalar las dependencias necesarias para levantar el proyecto
 
-Paso 1: Clonar e instalar dependencias
-
 ```sh
 git clone  ..
 cd ..
@@ -46,8 +40,9 @@ npm install -d
 npm start
 ```
 
-Pas 2: Levantar el entorno local
+### Levantar el proyecto
 
+Instrucciones para clonar el proyecto y obtener una copia local funcional.
 ```sh
 gulp serve
 ```
@@ -66,13 +61,13 @@ enlaces a wiki
 
 Como mantener el entorno actualizado
 
-```
-pull
+```sh
+git pull
 ```
 
 ### Requisitos
 
-Normas que debe cumplir los nuevos desarrollos, agrupados por técnología y sus validadores.
+Normas a cumplir en el desarrollo, agrupados por técnología y validadores.
 
 ```
 HTML - w3c
@@ -85,7 +80,7 @@ CSS: CSS3 https://validator.w3.org/unicorn/?ucn_task=full-css&ucn_lang=es
 Explicación de método de test de los desarrollos (procesos de gulp, frameworks...etc...)
 
 
-## Despliegue
+## Despliegue o pase el siguiente entorno.
 
 Notas sobre cómo desplegar el desarrollo en los entornos correspondientes
 
@@ -108,7 +103,7 @@ Noménclaturas, versiones del proyecto...
 | Timmings | M:\Frontend platform\ |
 | Google Analytics | M:\Frontend platform\ |
 
-## Contactos
+## Contactos implicados
 
 * **Nombre Apellidos** - *Project manager* - Marketing [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
 * **Nombre Apellidos** - *Trabajo inicial* - IT [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
