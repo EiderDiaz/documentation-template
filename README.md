@@ -2,23 +2,29 @@
 
 Texto explicativo sobre el proyecto
 
-## Objetivo del proyecto
+## Objetivos
 
 * Reforzar la imagen de la marca
 * Aumentar número de leads
 * Mejorar el performance
 
+## Requisitos
+
+Qué técnologías son necesarias para poder tener funcionando el proyecto
+
+* [Liferay](http://www.mecalux.es) - Suspendisse ut mass
+* [Freemarker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
+* [Docker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
+
 ## ¿Cómo empezar?
 
 Instrucciones para clonar el proyecto y obtener una copia local funcional.
 
-### Requisitos previos
+### Software
 
-Qué software (hardware) es necesario para poder tener funcionando el proyecto
-
-```
-Ejemplos...
-```
+* [Gulp](http://www.mecalux.es) - Suspendisse ut mass
+* [NodeJs](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
+* [Visual Studio Code](http://www.mecalux.es) - Integer sodales magna magna, nec condimentum neque pharetra vitae. 
 
 ### Instalación
 
@@ -38,14 +44,6 @@ Suspendisse non turpis elit.
 
 Acabar la explicación con un ejemplo de cómo quedaría el entorno funcionado...
 
-## Actualización del proyecto
-
-Pasos para tener actualizado el proeycto
-
-```
-pull
-```
-
 ## Desarrollo
 
 Explicación genérica de pasos previos al desarrollo de nuevas funcionalidades, o modificaciones del proyecto.
@@ -53,8 +51,15 @@ Explicación genérica de pasos previos al desarrollo de nuevas funcionalidades,
 ```
 enlaces a wiki
 ```
+### Actualización del entorno
 
-### Listado de requisitos del nuevo desarrollo 
+Como mantener el entorno actualizado
+
+```
+pull
+```
+
+### Requisitos
 
 Normas que debe cumplir los nuevos desarrollos, agrupados por técnología y sus validadores.
 
@@ -64,7 +69,7 @@ JAVASCRIPT: ECMAScript (ES6)
 CSS: CSS3 https://validator.w3.org/unicorn/?ucn_task=full-css&ucn_lang=es
 ```
 
-## Testeo
+### Testeo
 
 Explicación de método de test de los desarrollos (procesos de gulp, frameworks...etc...)
 
@@ -78,23 +83,24 @@ PRE -
 PRO -
 ```
 
-## Software
+## Contribuciones
 
-* [Gulp](http://www.mecalux.es) - Suspendisse ut mass
-* [NodeJs](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
-* [Visual Studio Code](http://www.mecalux.es) - Integer sodales magna magna, nec condimentum neque pharetra vitae. 
-
-## Contribuciones de desarrollo
-
-Enlace a wiki donde detallar el proceso de crear aportaciones al proyecto (merge request, documentación de desarrollos, tareas de redmine...)
+Proceso de cómo aportar los nuevos desarrollos (pasos, requisitos...)
 
 ## Versionado  
 
-Explicación del método o nomenclatura utilizado para versiones del proyecto.
+Noménclaturas, versiones del proyecto...
 
-## Autores
 
-* **Nombre Apellidos** - *Trabajo inicial* - [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
+## Contactos
 
-Participantes en el proyecto: [contributors](https://github.com/your/project/contributors) 
+* **Nombre Apellidos** - *Project manager* - Marketing [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
+* **Nombre Apellidos** - *Trabajo inicial* - IT [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
+* **Nombre Apellidos** - *Desarrollo* - IT [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
+* **Nombre Apellidos** - *Desarrollo* - MKT [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
+* **Nombre Apellidos** - *Diseño* - MKT [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
+* **Nombre Apellidos** - *SEO* - Markegint [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
+
+
+Listado: [contributors](https://github.com/your/project/contributors) 
 
