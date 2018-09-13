@@ -47,8 +47,7 @@ gulp serve
 
 Explicación o pasos previos a cualquier desarrollo. 
 
-|  |  |
-| ------ | ------ |
+| PASO | DESC |
 | 1.- | Actualizar tarea en redmine |
 | 2.- | Actualizar tarjeta TRELLO |
 | 3.- | Actualizar entorno de desarrollo |
