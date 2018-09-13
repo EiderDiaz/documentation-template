@@ -103,12 +103,12 @@ Noménclaturas, versiones del proyecto...
 
 ## Team
 
-* **Nombre Apellidos** - *(Project manager)* - [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
-* **Nombre Apellidos** - *(Trabajo inicial)* - [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
-* **Nombre Apellidos** - *(Desarrollo)* - [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
-* **Nombre Apellidos** - *(Desarrollo)* - [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
-* **Nombre Apellidos** - *(Diseño)* - [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
-* **Nombre Apellidos** - *(SEO)* - [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
+* **Nombre Apellidos** - *(Project manager)* - [Email](nombre.apellidos@company.com) - Tel.: +34 93 260 XX XX (5405)
+* **Nombre Apellidos** - *(Trabajo inicial)* - [Email](nombre.apellidos@company.com) - Tel.: +34 93 260 XX XX (5405)
+* **Nombre Apellidos** - *(Desarrollo)* - [Email](nombre.apellidos@company.com) - Tel.: +34 93 260 XX XX (5405)
+* **Nombre Apellidos** - *(Desarrollo)* - [Email](nombre.apellidos@company.com) - Tel.: +34 93 260 XX XX (5405)
+* **Nombre Apellidos** - *(Diseño)* - [Email](nombre.apellidos@company.com) - Tel.: +34 93 260 XX XX (5405)
+* **Nombre Apellidos** - *(SEO)* - [Email](nombre.apellidos@company.com) - Tel.: +34 93 260 XX XX (5405)
 
 
 Listado: [contributors](https://github.com/your/project/contributors) 
