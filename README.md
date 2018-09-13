@@ -38,6 +38,14 @@ Suspendisse non turpis elit.
 
 Acabar la explicación con un ejemplo de cómo quedaría el entorno funcionado...
 
+## Actualización del proyecto
+
+Pasos para tener actualizado el proeycto
+
+```
+pull
+```
+
 ## Desarrollo
 
 Explicación genérica de pasos previos al desarrollo de nuevas funcionalidades, o modificaciones del proyecto.
@@ -63,13 +71,18 @@ Explicación de método de test de los desarrollos (procesos de gulp, frameworks
 
 ## Despliegue
 
-Notas sobre cómo desplegar el desarrollo en el entorno correspondiente ("pre", "pro"...)
+Notas sobre cómo desplegar el desarrollo en los entornos correspondientes
+
+```
+PRE - 
+PRO -
+```
 
 ## Software
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Gulp](http://www.mecalux.es) - Suspendisse ut mass
+* [NodeJs](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
+* [Visual Studio Code](http://www.mecalux.es) - Integer sodales magna magna, nec condimentum neque pharetra vitae. 
 
 ## Contribuciones de desarrollo
 
@@ -81,7 +94,7 @@ Explicación del método o nomenclatura utilizado para versiones del proyecto.
 
 ## Autores
 
-* **Billie Thompson** - *Initial work* - [Email](nombre.apellidos@mecalux.com)
+* **Nombre Apellidos** - *Trabajo inicial* - [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
 
 Participantes en el proyecto: [contributors](https://github.com/your/project/contributors) 
 
