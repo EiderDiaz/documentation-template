@@ -2,14 +2,9 @@
 
 Texto explicativo sobre el proyecto
 
-## Documentación
+## Objetivo
 
-**[WIKI](https://github.com/xanisu/documentation-template/wiki)**
-
-## Objetivos
-
-> Crear una aplicación vel ipsum euismod magna tristique interdum ac vitae nisi. In placerat elit non mauris tristique, a sagittis ex pulvinar. Ut scelerisque dui non eleifend consectetur. Suspendisse vitae ex ac risus euismod rhoncus nec vel felis. In eu libero a lorem ultrices bibendum ut elementum quam. Suspendisse blandit metus ut ex feugiat, at bibendum neque varius. Nulla scelerisque commodo lectus, at suscipit mi auctor nec.
-
+> Crear una aplicación vel ipsum euismod magna tristique interdum ac vitae nisi. 
 
 ## Requisitos
 
@@ -19,7 +14,7 @@ Técnologías necesarias para poder tener funcionando el proyecto
 * [Freemarker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
 * [Docker](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
 
-### Tech
+### Technologías
 
 * [AngularJS] - HTML enhanced for web apps!
 * [markdown] - Markdown parser done right. Fast and easy to extend.
@@ -40,9 +35,8 @@ npm install -d
 npm start
 ```
 
-### Levantar el proyecto
+### Levantar el proyecto 
 
-Instrucciones para clonar el proyecto y obtener una copia local funcional.
 ```sh
 gulp serve
 ```
@@ -51,11 +45,15 @@ gulp serve
 
 ## Desarrollo
 
-Explicación genérica de pasos previos al desarrollo de nuevas funcionalidades, o modificaciones del proyecto.
+Explicación o pasos previos a cualquier desarrollo. 
 
-```
-enlaces a wiki
-```
+|  |  |
+| ------ | ------ |
+| 1.- | Actualizar tarea en redmine |
+| 2.- | Actualizar tarjeta TRELLO |
+| 3.- | Actualizar entorno de desarrollo |
+| 4.- | Crear nueva rama git |
+| 5.- | Desarrollo |
 
 ### Actualización del entorno
 
@@ -80,11 +78,11 @@ CSS: CSS3 https://validator.w3.org/unicorn/?ucn_task=full-css&ucn_lang=es
 Explicación de método de test de los desarrollos (procesos de gulp, frameworks...etc...)
 
 
-## Despliegue o pase el siguiente entorno.
+## Despliegue o pase a otro entorno.
 
 Notas sobre cómo desplegar el desarrollo en los entornos correspondientes
 
-```
+```sh
 PRE - 
 PRO -
 ```
@@ -95,13 +93,12 @@ Noménclaturas, versiones del proyecto...
 
 ## Recursos
 
-| Documento | Ubicación |
-| ------ | ------ |
-| Funcional | M:\Frontend platform\ |
-| Maquetas | M:\Frontend platform\ |
-| SEO | M:\Frontend platform\ |
-| Timmings | M:\Frontend platform\ |
-| Google Analytics | M:\Frontend platform\ |
+
+## Enlaces de interés
+
+**[WIKI](https://github.com/xanisu/documentation-template/wiki)**
+**[TRELLO](https://github.com/xanisu/documentation-template/wiki)**
+**[DOCUMENTACIÓN TÉCNICA](M:\\Frontend\)**
 
 ## Contactos implicados
 
