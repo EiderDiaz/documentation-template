@@ -91,14 +91,11 @@ PRO -
 
 Noménclaturas, versiones del proyecto...
 
-## Recursos
+## Enlaces y recursos de interés
 
-
-## Enlaces de interés
-
-**[WIKI](https://github.com/xanisu/documentation-template/wiki)**
-**[TRELLO](https://github.com/xanisu/documentation-template/wiki)**
-**[DOCUMENTACIÓN TÉCNICA](M:\\Frontend\)**
+  - [WIKI](https://github.com/xanisu/documentation-template/wiki)
+  - [TRELLO](https://github.com/xanisu/documentation-template/wiki)
+  - [DOCUMENTACIÓN TÉCNICA](M:\\Frontend\)
 
 ## Contactos implicados
 
