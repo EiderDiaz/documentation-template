@@ -8,9 +8,9 @@ Texto explicativo sobre el proyecto
 
 ## Objetivos
 
-* Reforzar la imagen de la marca
-* Aumentar número de leads
-* Mejorar el performance
+> Reforzar la imagen de la marca
+> Aumentar número de leads
+> Mejorar el performance
 
 ## Requisitos
 
@@ -24,29 +24,37 @@ Qué técnologías son necesarias para poder tener funcionando el proyecto
 
 Instrucciones para clonar el proyecto y obtener una copia local funcional.
 
-### Software
+### Tech
 
-* [Gulp](http://www.mecalux.es) - Suspendisse ut mass
-* [NodeJs](http://www.mecalux.es) - Maecenas dapibus, lorem in sollicitudin rutrum
-* [Visual Studio Code](http://www.mecalux.es) - Integer sodales magna magna, nec condimentum neque pharetra vitae. 
+* [AngularJS] - HTML enhanced for web apps!
+* [markdown-it] - Markdown parser done right. Fast and easy to extend.
+* [Twitter Bootstrap] - great UI boilerplate for modern web apps
+* [node.js] - evented I/O for the backend
+* [Express] - fast node.js network app framework [@tjholowaychuk]
+* [Gulp] - the streaming build system
+* [jQuery] - duh
 
 ### Instalación
 
-Paso a paso (con ejemplos), de cómo tener un entorno de desarrollo funcionando.
+Clonar e instalar las dependencias necesarias para levantar el proyecto
 
 Paso 1: Levantar el entorno
 
 ```
-ejecutar la instrucción gulp en la carpeta del proyecto..
+git clone  ..
+cd ..
+npm install -d
+npm start
 ```
 
 Pas 2: Lorem ipsum
 
 ```
-Suspendisse non turpis elit.
+gulp serve
 ```
 
-Acabar la explicación con un ejemplo de cómo quedaría el entorno funcionado...
+[(https://dynamicimageses-v2b.netdna-ssl.com/product/es_1707_hd.jpg)]
+
 
 ## Desarrollo
 
