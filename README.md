@@ -2,11 +2,11 @@
 
 Texto explicativo sobre el proyecto
 
-## Objetivo
+### Objetivo
 
 > Crear una aplicación vel ipsum euismod magna tristique interdum ac vitae nisi. 
 
-## Requisitos
+### Requisitos
 
 Técnologías necesarias para poder tener funcionando el proyecto
 
@@ -24,7 +24,7 @@ Técnologías necesarias para poder tener funcionando el proyecto
 * [Gulp] - the streaming build system
 * [jQuery] - duh
 
-### Instalación
+## Instalación
 
 Clonar e instalar las dependencias necesarias para levantar el proyecto
 
@@ -95,9 +95,9 @@ Noménclaturas, versiones del proyecto...
 
   - [WIKI](https://github.com/xanisu/documentation-template/wiki)
   - [TRELLO](https://github.com/xanisu/documentation-template/wiki)
-  - [DOCUMENTACIÓN TÉCNICA](M:\\Frontend\)
+  - [DOCUMENTACIÓN TÉCNICA](file://M://Frontend\)
 
-## Contactos implicados
+## Contactos
 
 * **Nombre Apellidos** - *Project manager* - Marketing [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
 * **Nombre Apellidos** - *Trabajo inicial* - IT [Email](nombre.apellidos@mecalux.com) - Tel.: +34 93 260 90 00 (5405)
