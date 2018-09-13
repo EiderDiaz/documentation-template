@@ -2,6 +2,10 @@
 
 Texto explicativo sobre el proyecto
 
+## Documentación
+
+**[WIKI](https://github.com/xanisu/documentation-template/wiki)**
+
 ## Objetivos
 
 * Reforzar la imagen de la marca
